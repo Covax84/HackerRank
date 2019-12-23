@@ -1,4 +1,4 @@
-def factorial(n: int):
+def factorial(n: int) -> int:
     """Calculate factorial n. Recurrent function."""
     if n < 0:
         raise ValueError('Expected n >= 0')
