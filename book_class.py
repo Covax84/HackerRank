@@ -22,8 +22,8 @@ class MyBook(Book):
         print('Price: ' + str(self.price))
 
 
-title = input('Enter title: ')
-author = input('Enter author: ')
-price = int(input('Enter price: '))
-my_novel = MyBook(title, author, price)
-my_novel.display()
+# title = input('Enter title: ')
+# author = input('Enter author: ')
+# price = int(input('Enter price: '))
+# my_novel = MyBook(title, author, price)
+# my_novel.display()
