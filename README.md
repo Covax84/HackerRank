@@ -1,2 +1,2 @@
 # HackerRank
-Some tasks solutions from https://www.hackerrank.com/
+Some solutions for https://www.hackerrank.com/
